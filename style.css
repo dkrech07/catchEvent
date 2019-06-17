@@ -1,0 +1,22 @@
+.page-wrapper {
+  width: 100px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+.image {
+  background-color: #ffa500;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin: 0 auto;
+}
+
+.button {
+  width: 85px;
+  height: 85px;
+  border-radius: 50%;
+  border: 1px solid #ff895a;
+  background: none;
+  cursor: pointer;
+}
